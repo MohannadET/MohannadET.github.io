@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/full-stack", {data:[{}],fetch:{"0":{links:["home","full-stack","devops"]}},mutations:void 0});
